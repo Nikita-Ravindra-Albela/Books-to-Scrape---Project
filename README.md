@@ -58,7 +58,7 @@ import re
 Key Features
   UTF-8 decoding for clean text
   Extract book details from multiple pages
-  Clean numeric price values
+  Clean numeric price values 
   Export clean tabular data
 
  ## How to Run
