@@ -5,7 +5,7 @@ This project demonstrates end-to-end web scraping using Python, BeautifulSoup, a
 
 This project scrapes:
 
-Book Title
+Book Title 
 
 Price (cleaned to numeric)
 
